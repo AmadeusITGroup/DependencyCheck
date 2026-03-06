@@ -19,7 +19,7 @@
     "react-dom": "npm:@hot-loader/react-dom",
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
-    "underscore": "^1.8.3"
+    "underscore": "^1.13.8"
   },
   "comments": {
     "//": "do not upgrade the marked package version it is set by purpose",
@@ -50,7 +50,7 @@
     "grunt-nodemon": "^0.4.2",
     "grunt-if": "https://github.com/binarymist/grunt-if/tarball/master",
     "grunt-npm-install": "^0.3.0",
-    "grunt-retire": "^0.3.12",
+    "grunt-retire": "^1.0.9",
     "mocha": "^2.4.5",
     "react-dom": "npm:@hot-loader/react-dom",
     "selenium-webdriver": "^2.53.2",
